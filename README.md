@@ -1,5 +1,5 @@
 # Console Utiltiy Library
-A idiomatic C++ console utility library similar to the C# console
+An idiomatic C++ console utility library similar to the C# console
 
 ## Example
 
