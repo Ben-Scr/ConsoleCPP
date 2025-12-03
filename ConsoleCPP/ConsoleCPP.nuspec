@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>ConsoleCPP</id>
+    <version>1.0.0</version>
+    <authors>Ben</authors>
+    <owners>Ben</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Test</description>
+  </metadata>
+
+  <files>
+    <file src="Build\ConsoleCPP.lib" target="Lib\Native" />
+    <file src="Include\*.hpp" target="Build\Native\Include" />
+  </files>
+</package>

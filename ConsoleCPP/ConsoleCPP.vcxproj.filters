@@ -15,8 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\UtilityCPP\UtilityCPP\Include\Utility\Console.hpp">
+    <None Include="ConsoleCPP.nuspec" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include\Console.hpp">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\Console.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
