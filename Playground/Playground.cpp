@@ -1,6 +1,8 @@
-#include <iostream>
+#include "Console.hpp"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	BenScr::Console::WriteLine("Hello, World!");
+	BenScr::Console::SetTitle("My Console Application");
+	return 0;
 }

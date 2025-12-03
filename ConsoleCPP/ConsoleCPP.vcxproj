@@ -19,9 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ConsoleCPP.nuspec" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="Include\Console.hpp" />
   </ItemGroup>
   <ItemGroup>
