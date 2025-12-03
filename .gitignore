@@ -359,5 +359,12 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
+
+# SLNX
+.slnx
+
+# Nuspec File
+.nuspec
+
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
