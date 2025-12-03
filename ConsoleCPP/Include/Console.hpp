@@ -20,5 +20,8 @@ namespace  BenScr {
 
         static char ReadKey();
         static void Clear();
+
+		static void SetTitle(const std::string& title);
+		static void SetCursorPosition(int x, int y);
     };
 }

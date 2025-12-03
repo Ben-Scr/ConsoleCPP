@@ -21,4 +21,14 @@ namespace BenScr {
 #endif
 		}
 	}
+
+	void Console::SetTitle(const std::string& title)
+	{
+		std::cout << "\033]0;" << title << "\007";
+	}
+
+	void Console::SetCursorPosition(int x, int y)
+	{
+		std::cout << "\033[" << (y + 1) << ";" << (x + 1) << "H";
+	}
 }
