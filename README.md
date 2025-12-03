@@ -13,4 +13,6 @@ Console::WriteLine("Hello World!");
 std::string input = Console::ReadLine();
 char key = Console::ReadKey();
 Console::Clear();
+Console::SetTitle("Console Title");
+Console::SetCursorPosition(0, 0);
 ```
