@@ -3,8 +3,8 @@
 	<metadata>
 		<id>ConsoleCPP</id>
 		<version>1.0.0</version>
-		<authors>Ben</authors>
-		<owners>Ben</owners>
+		<authors>Ben Schneider</authors>
+		<owners>Ben Schneider</owners>
 
 		<summary>
 			Modern C++ console helper library
