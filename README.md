@@ -1,13 +1,15 @@
 # Console Utiltiy Library
-An idiomatic C++ console utility library similar to the C# console
+A simple C++ console utility library similar to the C# console
 
-## Example
+## How to use
 
+- Including
 ```cpp
 #include <Console.hpp>
 using namespace BenScr;
 ```
 
+- Functionalities
 ```cpp
 Console::WriteLine("Hello World!");
 std::string input = Console::ReadLine();
