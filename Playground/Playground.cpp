@@ -1,5 +1,4 @@
 #include "Console.hpp"
-using namespace BenScr;
 
 int main()
 {
