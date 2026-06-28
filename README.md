@@ -1,4 +1,4 @@
-# Console Utiltiy Library
+# C++ Console Utiltiy Library
 A simple C++ console utility library similar to the C# console's syntax
 
 ## How to use
