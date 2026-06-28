@@ -3,13 +3,12 @@ A minimal C++ console utility library similar to the C# console's syntax
 
 ## How to use
 
-- Including
+### Include
 ```cpp
 #include <Console.hpp>
 using namespace BenScr;
 ```
-
-- Functionalities
+### Functionality
 ```cpp
 Console::WriteLine("Hello World!");
 std::string input = Console::ReadLine();
