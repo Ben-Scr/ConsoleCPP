@@ -13,7 +13,7 @@
 		<tags>Console;Cpp;Library;</tags>
 
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<description>A C++ console utility library similar to the C# console syntax</description>
+		<description>A minimal C++ console utility library similar to the C# console's syntax</description>
 		<icon>icon.png</icon>
 		<readme>README.md</readme>
 		<license type="file">LICENSE.txt</license>
